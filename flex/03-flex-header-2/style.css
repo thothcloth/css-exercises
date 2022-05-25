@@ -55,4 +55,6 @@ ul {
   justify-content: center;
   gap: 8px;
 }
-
+.notifications {
+  margin-left: auto;
+}
